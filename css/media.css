@@ -27,13 +27,11 @@
 @media screen and (max-width: 768px) {
 	.btn {
 		font-size: 12px;
-		font-weight: 700;
-		color: #fff;
+		font-weight: 400;
 	}
 	.offer__menu_text {
 		font-size: 20px;
 		font-weight: 700;
-		color: #fff;
 	}
 	.offer__get {
 		font-size: 16px;
@@ -43,13 +41,11 @@
 @media screen and (max-width: 480px) {
 	.btn {
 		font-size: 8px;
-		font-weight: 700;
-		color: #fff;
+		font-weight: 400;
 	}
 	.offer__menu_text {
 		font-size: 12px;
 		font-weight: 700;
-		color: #fff;
 	}
 	.offer__get {
 		font-size: 12px;
